@@ -6,7 +6,7 @@ body{
 
 .outer-conatiner{
     width: auto;
-    height: 40rem;
+    height: 30rem;
     position: relative;
 }
 .conatiner{
@@ -103,8 +103,8 @@ body{
     background-color: black;
     place-content:center;
     position: absolute;
-    top: 19.2rem;
-    left: 40.35rem;
+    top: 44.2%;
+    left: 43.5%; 
 }
 
 #text2{
