@@ -20,6 +20,7 @@ body{
     display: flex;
     flex-direction: row;
     box-shadow: 0px 10px 20px white;
+    position: relative;
 }
 
 @font-face {
@@ -103,8 +104,8 @@ body{
     background-color: black;
     place-content:center;
     position: absolute;
-    top: 44.2%;
-    left: 43.5%; 
+    top: 28%;
+    left: 30%; 
 }
 
 #text2{
